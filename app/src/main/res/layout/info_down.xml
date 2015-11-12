@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/id_img_info"
+        android:layout_width="160dp"
+        android:layout_marginTop="-16dp"
+        android:layout_height="wrap_content"
+        android:src="@drawable/info_text" />
+
+    <ImageView
+
+        android:layout_width="40dp"
+        android:layout_height="wrap_content"
+        android:rotation="180"
+        android:src="@drawable/jt_up"
+        android:layout_below="@id/id_img_info"/>
+
+
+
+
+</RelativeLayout>

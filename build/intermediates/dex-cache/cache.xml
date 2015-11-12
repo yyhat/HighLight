@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidStudioProjects\Highlight\app\build\intermediates\exploded-aar\Highlight\highlight\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1b5a8af69ceee2ccf392fa8bed5701d4f858fb89">
+        <dex dex="D:\AndroidStudioProjects\Highlight\app\build\intermediates\pre-dexed\debug\classes-59b029b06171b9e6c1fe468eabb2c8f9a45efd4d.jar" />
+    </item>
+
+</items>
